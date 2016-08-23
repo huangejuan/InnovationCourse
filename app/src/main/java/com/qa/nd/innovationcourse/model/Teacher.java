@@ -49,7 +49,7 @@ public class Teacher {
         teachers.add(new Teacher("陈江", R.drawable.cj, "陈江，北京大学信息科学技术学院副教授，高等学校电路和信号系统教学与教材研究会常务理事，中国通信理论与信号处理委员会委员。"));
         teachers.add(new Teacher("叶蔚", R.drawable.yw, "叶蔚，北京大学软件工程国家工程研究中心副研究员，创办了技术学习服务平台天码营(http://tianmaying.com)与软件开发协同工具Onboard(http://onboard.cn)。"));
 
-
+        //这里我们测试branch和pull request，所以加上这个注释，表示我们修改了代码
         return teachers;
     }
 }
